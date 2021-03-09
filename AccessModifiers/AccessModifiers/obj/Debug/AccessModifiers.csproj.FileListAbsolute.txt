@@ -1,0 +1,6 @@
+E:\P119\C#\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+E:\P119\C#\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+E:\P119\C#\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+E:\P119\C#\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csprojAssemblyReference.cache
+E:\P119\C#\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+E:\P119\C#\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb
